@@ -5,7 +5,9 @@
 # 3. Add both numbers inside the function.
 # 4. Return the result.
 # 5. Print the result outside the function.
-num1 = int(input("Enter first number: "))
+num1 = 
+
+
 num2 = int(input("Enter Second number: "))
 
 def sum(num1,num2):
